@@ -69,7 +69,7 @@ Additionally, you can use \f(CWyay,pacman\fP to install from the repos.
 .ITEM
 \f(CWControl+Mod1+b\fP \(en Thunar (file browser/manager)
 .ITEM
-\f(CWControl+Mod1+n\fP \(en Open Vifm
+\f(CWControl+Mod1+n\fP \(en Open mc (Midnight Commander)
 .ITEM
 \f(CWControl+Mod1+f\fP \(en Open Firefox
 .ITEM
