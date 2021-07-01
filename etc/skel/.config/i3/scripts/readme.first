@@ -84,10 +84,6 @@ Additionally, you can use \f(CWyay,pacman\fP to install from the repos.
 .ITEM
 \f(CWMod+x\fP \(en Arcolinux-Logout
 .ITEM
-\f(CWcontrol+Mod1+e\fP \(en Arcolinux-Tweaktool
-.ITEM
-\f(CWControl+Mod1+w\fP \(en Arcolinux-Welcome
-.ITEM
 \f(CWMod+Escape\fP \(en Superkill (be carefull!!)
 .ITEM
 \f(CWControl+Mod1+i\fP \(en Nitrogen
